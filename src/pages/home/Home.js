@@ -7,7 +7,7 @@ function Home() {
         <section className="home-page">
             <section className="home-header-page">
                 <article className="home-header-photo">
-                    <picture></picture>
+                    <img src="../assets" alt="photo of nice dog"/>
                 </article>
                 <article className="home-header-text">
                     <h1>Home header</h1>
@@ -16,7 +16,7 @@ function Home() {
             </section>
             <section className="home-about-page">
                 <article className="home-about-photo">
-                    <picture></picture>
+                    <img src="../assets" alt="photo of photographer"/>
                 </article>
                 <article className="home-about-text">
                     <h1>Home about</h1>
@@ -25,7 +25,7 @@ function Home() {
             </section>
             <section className="home-dog-page">
                 <article className="home-dog-photo">
-                    <picture></picture>
+                    <img src="../assets" alt="photo of dog"/>
                 </article>
                 <article className="home-dog-text">
                     <h1>Home Dog</h1>
@@ -34,7 +34,7 @@ function Home() {
             </section>
             <section className="home-family-page">
                 <article className="home-family-photo">
-                    <picture></picture>
+                    <img src="../assets" alt="photo of family"/>
                 </article>
                 <article className="home-family-text">
                     <h1>Home family</h1>
@@ -43,7 +43,7 @@ function Home() {
             </section>
             <section className="home-branding-page">
                 <article className="home-branding-photo">
-                    <picture></picture>
+                    <img src="../assets" alt="photo of brand"/>
                 </article>
                 <article className="home-branding-text">
                     <h1>Home branding</h1>
@@ -58,7 +58,7 @@ function Home() {
             </section>
             <section className="home-footer-page">
                 <article className="home-footer-photo">
-                    <picture></picture>
+                    <img src="../assets" alt="instagram logo"/>
                 </article>
                 <article className="home-footer-text">
                     <h1>Home footer</h1>

@@ -197,9 +197,23 @@ template {
 }
 
 /* ------------------------------- 2. Global Styles -------------------------------- */
+
+.site-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--basic-flits-light-color);
+}
+
 /* ------------------------------- 3. Typography ----------------------------------- */
 /* ------------------------------- 4. Layout --------------------------------------- */
 /* --------------- 4.1 Reusables ----------------------- */
+
+* {
+  --basic-flits-light-color: #F0A7BB;
+  --basic-flits-dark-color: #EC36B6;
+}
 /* --------------- 4.2 Other --------------------------- */
 /* ------------------------------- 5. Areas ---------------------------------------- */
 /* --------------- 5.1 Navigation ------------------------- */
