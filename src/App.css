@@ -89,6 +89,7 @@ sup {
 }
 
 img {
+  max-width: 100vw;
   border-style: none;
 }
 
@@ -220,4 +221,31 @@ template {
 
 
 /* --------------- 5.2 Home Page ------------------- */
+
+.home-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-header-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid blue;
+}
+
+.home-header-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
 /* ------------------------------- 6. Media Queries -------------------------------- */
