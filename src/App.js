@@ -1,10 +1,17 @@
+import React from "react";
 import './App.css';
+import Home from "./pages/home/Home";
+import Navigation from "./components/navigation/Navigation";
+
 
 function App() {
   return (
-    <div className="App">
-      <p>Hello world!</p>
-    </div>
+      <>
+          <Navigation/>
+          <section className="site-wrapper">
+              <Home/>
+          </section>
+      </>
   );
 }
 
