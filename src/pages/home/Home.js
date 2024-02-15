@@ -17,7 +17,7 @@ function Home() {
             </section>
             <section className="home-about-page">
                 <article className="home-about-photo">
-                    {/*<img src={DogPhotoZuko} alt="photographer"/>*/}
+                    <img src={DogPhotoZuko} alt="photographer"/>
                 </article>
                 <article className="home-about-text">
                     <h1>Home about</h1>
@@ -26,7 +26,7 @@ function Home() {
             </section>
             <section className="home-dog-page">
                 <article className="home-dog-photo">
-                    {/*<img src={DogPhotoZuko} alt="dog"/>*/}
+                    <img src={DogPhotoZuko} alt="dog"/>
                 </article>
                 <article className="home-dog-text">
                     <h1>Home Dog</h1>
@@ -35,7 +35,7 @@ function Home() {
             </section>
             <section className="home-family-page">
                 <article className="home-family-photo">
-                    {/*<img src={DogPhotoZuko} alt="family"/>*/}
+                    <img src={DogPhotoZuko} alt="family"/>
                 </article>
                 <article className="home-family-text">
                     <h1>Home family</h1>
@@ -44,7 +44,7 @@ function Home() {
             </section>
             <section className="home-branding-page">
                 <article className="home-branding-photo">
-                    {/*<img src={DogPhotoZuko} alt="brand"/>*/}
+                    <img src={DogPhotoZuko} alt="brand"/>
                 </article>
                 <article className="home-branding-text">
                     <h1>Home branding</h1>

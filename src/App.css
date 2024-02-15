@@ -222,6 +222,8 @@ template {
 
 /* --------------- 5.2 Home Page ------------------- */
 
+/*////////// Header section //////////*/
+
 .home-page {
   display: flex;
   flex-direction: column;
@@ -234,7 +236,6 @@ template {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border: 1px solid blue;
 }
 
 .home-header-text {
@@ -244,8 +245,101 @@ template {
   align-items: center;
 }
 
+/*////////// About section //////////*/
 
+.home-about-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 
+.home-about-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/*////////// Dog section //////////*/
+
+.home-dog-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-dog-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/*////////// Family section //////////*/
+
+.home-family-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-family-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/*////////// Branding section //////////*/
+
+.home-branding-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-branding-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/*////////// Contact section //////////*/
+
+.home-contact-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-contact-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/*////////// Contact section //////////*/
+
+.home-footer-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-footer-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 
 
 /* ------------------------------- 6. Media Queries -------------------------------- */
