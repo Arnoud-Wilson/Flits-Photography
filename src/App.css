@@ -261,6 +261,7 @@ template {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  max-width: 85vw;
 }
 
 .home-about-photo img {
@@ -281,6 +282,7 @@ template {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  max-width: 85vw;
 }
 
 .home-dog-photo img {
@@ -301,6 +303,7 @@ template {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  max-width: 85vw;
 }
 
 .home-family-photo img {
@@ -321,6 +324,7 @@ template {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  max-width: 85vw;
 }
 
 .home-branding-photo img {
@@ -341,6 +345,7 @@ template {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  max-width: 85vw;
 }
 
 /*////////// Contact section //////////*/
@@ -357,6 +362,7 @@ template {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  max-width: 85vw;
 }
 
 
