@@ -1,11 +1,12 @@
 import React from "react";
 import DogPhotoZuko from "../../assets/homepage_photos/Zuko_mobile.jpg";
-
+import SideBar from "../../components/navigation/Sidebar";
 
 function Home() {
 
     return (
         <section className="home-page">
+            <SideBar pageWrapId={"page-wrap"} outerContainerId={"App"} />
             <section className="home-header-page">
                 <article className="home-header-photo">
                     <img src={DogPhotoZuko} alt="nice dog"/>
